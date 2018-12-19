@@ -8,3 +8,5 @@
 3. [ужасная регрессия, тык](https://colab.research.google.com/github/artesby/ds_ml2k18/blob/master/three.ipynb)
 
 4. [позорный svm, тык](https://colab.research.google.com/github/artesby/ds_ml2k18/blob/master/four.ipynb)
+
+5. [бустинг на прокачку, тык](https://colab.research.google.com/github/artesby/ds_ml2k18/blob/master/five.ipynb)
